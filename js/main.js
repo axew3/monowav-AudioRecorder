@@ -1,4 +1,6 @@
-/* Copyright 2013 Chris Wilson
+/* Modified version axew3 Mag 2018
+  
+   Copyright 2013 Chris Wilson
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
