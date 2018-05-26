@@ -9,7 +9,6 @@ foreach($_POST as $k => $p){
 	 $fname = $p;
   }
 }
-file_put_contents('F:\log_code.txt', $w3stream);
 if(!file_put_contents( "./".$fname, $w3stream )){
  echo"w3FWerror - the file not createt"; // ERROR: the file has not been created
 	exit;
