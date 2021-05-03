@@ -8,7 +8,7 @@ foreach($_POST as $k => $p){
   }
 }
 if(!file_put_contents( "./".$fname, $w3stream )){
- echo"w3FWerror - file waw not created"; // ERROR: the file has not been created
+ echo"w3FWerror - file wav not created"; // ERROR: the file has not been created
 	exit;
 }
 
